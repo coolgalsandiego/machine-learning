@@ -1,2 +1,2 @@
 # machine-learning
-MAchineLearningRepo
+Collection of various ML projects
